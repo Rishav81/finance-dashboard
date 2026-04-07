@@ -127,20 +127,20 @@ src/
 ### DASHBOARD
 
 <p align="center">
-  <img src="finance-dsahboard/public/dashboard.png" width="800"/>
-    <img src="finance-dsahboard/public/dashboard1.png" width="800"/>
+  <img src="/dashboard.png" width="800"/>
+    <img src="/dashboard1.png" width="800"/>
 </p>
 
 ### TRANSACTIONS
 
 <p align="center">
-  <img src="finance-dsahboard/public/transaction.png" width="800"/>
+  <img src="/transaction.png" width="800"/>
 </p>
 
 ### insights
 
 <p align="center">
-  <img src="finance-dsahboard/public/insights.png" width="800"/>
+  <img src="/insights.png" width="800"/>
 </p>
 
 ---
