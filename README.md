@@ -127,20 +127,20 @@ src/
 ### DASHBOARD
 
 <p align="center">
-  <img src="/dashboard.png" width="800"/>
-    <img src="/dashboard1.png" width="800"/>
+  <img src="./public/dashboard.png" width="800"/>
+    <img src="./public/dashboard1.png" width="800"/>
 </p>
 
 ### TRANSACTIONS
 
 <p align="center">
-  <img src="/transaction.png" width="800"/>
+  <img src="./public/transaction.png" width="800"/>
 </p>
 
 ### insights
 
 <p align="center">
-  <img src="/insights.png" width="800"/>
+  <img src="./public/insights.png" width="800"/>
 </p>
 
 ---
